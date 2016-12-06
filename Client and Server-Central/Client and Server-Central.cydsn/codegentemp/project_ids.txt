@@ -1,0 +1,5 @@
+C:\Users\Manisha Goyal\Desktop\Day013_Client_Server\Client and Server-Central\Client and Server-Central.cydsn\Client and Server-Central.cyprj|7431ab42-9118-4266-9715-979ec31033f9
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|b19fac89-dceb-4179-8c4e-9d0c60bdfa67
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|660e4c36-12d8-4eeb-b042-82eda4d5da7f
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|966e6d0e-9f24-4938-a63f-6170be7752e8
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|c8929eb0-d57a-43b3-af37-476e8b754828

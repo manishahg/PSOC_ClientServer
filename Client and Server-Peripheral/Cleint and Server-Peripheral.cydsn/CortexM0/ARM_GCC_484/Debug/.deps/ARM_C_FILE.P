@@ -1,0 +1,34 @@
+C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/CortexM0/ARM_GCC_484/Debug/UART_UART.o : C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/CyLib.h C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/UART.h C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/UART_PINS.h C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/UART_PVT.h C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/UART_SCBCLK.h C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/UART_SPI_UART.h C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/UART_SPI_UART_PVT.h C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/UART_rx.h C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/UART_tx.h C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/cypins.h C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/cytypes.h C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/UART_UART.c 
+
+C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/UART.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/UART_PINS.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/UART_PVT.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/UART_SCBCLK.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/UART_SPI_UART.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/UART_SPI_UART_PVT.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/UART_rx.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/UART_tx.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/cypins.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+C:/Users/Manisha\ Goyal/Desktop/Day013_Client_Server/Client\ and\ Server-Peripheral/Cleint\ and\ Server-Peripheral.cydsn/Generated_Source/PSoC4/UART_UART.c : 
+
